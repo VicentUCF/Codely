@@ -1,5 +1,5 @@
 import { EmployeeRepository } from '../interfaces/EmployeeRepsitory';
-import { Clock, MonthDay } from './Clock';
+import { Clock, MonthDay } from '../ExternalDependencies/Clock';
 import { Employee } from './Employee';
 import { Email } from './Email';
 import { EmailSender } from './EmailSender';
